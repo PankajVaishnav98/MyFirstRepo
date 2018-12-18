@@ -4,3 +4,4 @@ print(sys.version)
 print(os.name)
 
 we can do similar code here , and can update also. 
+shankar edited
